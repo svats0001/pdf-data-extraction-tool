@@ -19,7 +19,7 @@ How to get started?
 5. Run the FileInputScreen class to start the program
 
 How to get help?
-Create a new issue in this repository and write a message inside of the issue for whatever you need assistance with
+- Create a new issue in this repository and write a message inside of the issue for whatever you need assistance with
 
 Who maintains and contributes to this project?
-I created this small tool as practice for my Java, Python and general software development skills. I probably won't be adding anything else to it unless I happen to get comments from other users about any bugs or improvements. If you like, you can fork this repository and make your own changes and improvements
+- I created this small tool as practice for my Java, Python and general software development skills. I probably won't be adding anything else to it unless I happen to get comments from other users about any bugs or improvements. If you like, you can fork this repository and make your own changes and improvements
